@@ -1,0 +1,45 @@
+_repo: The-Dove-in-the-Eagle-s-Nest_3139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: 'Charlotte Mary Yonge (1823-1901), was an English novelist, known for
+  her huge output. She was devoted to the Church of England, and much influenced by
+  John Keble, a near neighbour and one of the leaders of the Oxford Movement. Her
+  novels reflected the values and concerns of Anglo-Catholicism. She began writing
+  in 1848, and published during her long life about 100 works, chiefly novels. Her
+  first commercial success, The Heir of Redclyffe (1854), provided the funding to
+  enable the schooner Southern Cross to be put into service on behalf of George Selwyn.
+  Similar charitable works were done with the profits from later novels. She was also
+  editor, for nearly forty years, of a magazine for young ladies, the Monthly Packet.
+  Among the best known of her works are Heartsease; or, The Brother''s Wife (1854),
+  The Daisy Chain; or, Aspirations (1856), A History of Christian Names (1863, revised
+  1884), A Book of Golden Deeds (1864), The Dove in the Eagle''s Nest (1866), Life
+  of John Coleridge Patteson: Missionary Bishop of the Melanesian Islands (1873) and
+  Hannah More (1888).'
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2002-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Emperors -- Fiction'
+- !lcsh 'Maximilian I, Holy Roman Emperor, 1459-1519'
+- !lcc 'PR'
+- !lcsh 'Holy Roman Empire -- History -- Maximilian I, 1493-1519 -- Fiction'
+- GITenberg
+title: The Dove in the Eagle's Nest
+url: http://www.gutenberg.org/ebooks/3139
