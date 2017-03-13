@@ -1,5 +1,8 @@
 _repo: The-Dove-in-the-Eagle-s-Nest_3139
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -25,6 +28,8 @@ description: 'Charlotte Mary Yonge (1823-1901), was an English novelist, known f
   1884), A Book of Golden Deeds (1864), The Dove in the Eagle''s Nest (1866), Life
   of John Coleridge Patteson: Missionary Bishop of the Melanesian Islands (1873) and
   Hannah More (1888).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3139#The-Dove-in-the-Eagle-s-Nest
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2002-03-01'
 gutenberg_type: Text
